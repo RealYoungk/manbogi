@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "268788727659",
+    "project_id": "manbogi-a0aec",
+    "storage_bucket": "manbogi-a0aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268788727659:android:84f8e3880583023abd962e",
+        "android_client_info": {
+          "package_name": "com.realyoungk.manbogi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268788727659-pu6tmpmcl03gieqo3ned3luh7kmhviri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.realyoungk.manbogi",
+            "certificate_hash": "d01de536a0baa218547e7e29c9c348cb6932c7b0"
+          }
+        },
+        {
+          "client_id": "268788727659-emag3ct89t39eoe17g3qplhsrq4tkrh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUfqBrCD76wf9FB9cr_VGpGKSMyXkv9h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268788727659-emag3ct89t39eoe17g3qplhsrq4tkrh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "268788727659-3nb8arrjt3lbqvuslvi43umiadp7hm7m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.realyoungk.manbogi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
